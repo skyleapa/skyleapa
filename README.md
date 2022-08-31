@@ -1,8 +1,10 @@
 ### (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Heyo~ I'm Michelle
 
   /)  /)
-ପ(˶•-•˶)ଓ ♡  I'm a computer science student at the University of British Columbia
-  /づ  づ  
+ପ(˶•-•˶)ଓ ♡
+  /づ  づ
+  
+I'm a computer science student at the University of British Columbia
    
 I'm an avid gamer, and the owner of a small stationery business called <a href="https://takeasipco.com/" target="_blank">takeAsipCo</a>!
 
