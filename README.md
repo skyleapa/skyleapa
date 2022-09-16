@@ -11,7 +11,7 @@ I'm a tech enthusiast and the owner of a small stationery business called <a hre
 ### ʕ•́ᴥ•̀ʔっ My interests!
    - Game development, machine learning, AI
    - Robotics and computer hardware
-   - Video games like league, valorant, stardew, spiritfarer
+   - Video games like League, Valorant, Stardew, Spiritfarer
    - (ง︡'-'︠)ง Taekwondo
    
 If you wanna work with me or are down to play a game of league or valo, feel free to reach out via [email](mailto:michelle.wang3438@gmail.com)!
