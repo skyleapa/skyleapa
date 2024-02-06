@@ -1,10 +1,6 @@
 <h1 align="center"> (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Heyo~ I'm Michelle </h1>
 
-A 2nd year Computer Science Major at [UBC](https://www.ubc.ca/)
-
-I'm a tech enthusiast and the owner of a small stationery business called <a href="https://takeasipco.com/" target="_blank">takeAsipCo</a>!
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=skyleapa.skyleapa&left_color=blue&right_color=purple) 
+A 3rd year Computer Science Major at [UBC](https://www.ubc.ca/)
 
 ✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧
 
@@ -12,7 +8,7 @@ I'm a tech enthusiast and the owner of a small stationery business called <a hre
    - Game development, machine learning, AI
    - Robotics and computer hardware
    - Video games like League, Valorant, Stardew, Spiritfarer, Bear and Breakfast
-   - (ง︡'-'︠)ง Taekwondo
+   - (ง'-')ง Taekwondo
    
 If you wanna work with me or are down to play a game of league or valo, feel free to reach out via [email](mailto:michelle.wang3438@gmail.com)!
 
