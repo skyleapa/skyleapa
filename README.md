@@ -2,6 +2,8 @@
 
 A 3rd year Computer Science Major at [UBC](https://www.ubc.ca/)
 
+Here's my personal [website!](https://michellex.wang/)
+
 ✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧
 
 ### ʕ•́ᴥ•̀ʔっ My interests!
